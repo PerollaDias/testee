@@ -1,0 +1,11 @@
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\bin\Debug\NumericUpDown1.exe.config
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\bin\Debug\NumericUpDown1.exe
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\bin\Debug\NumericUpDown1.pdb
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.Form1.resources
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.Properties.Resources.resources
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.csproj.GenerateResource.cache
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.exe
+C:\Users\2022102020078\source\repos\NumericUpDown1\NumericUpDown1\obj\Debug\NumericUpDown1.pdb
